@@ -1,0 +1,13 @@
+pandas
+transformers
+torch
+sklearn
+nltk
+tiktoken
+requests
+tqdm
+matplotlib
+seaborn
+protobuf
+hf_xet
+ipywidgets
